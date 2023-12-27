@@ -5,7 +5,7 @@ Welcome to the Weather Application! This application provides real-time weather 
 Features
 Current Weather: Get up-to-date information on the current weather conditions, including temperature, humidity, wind speed, and more.
 
-Forecast: Access a 7-day weather forecast to help you plan your week ahead.
+Forecast: Access a !-day weather forecast to help you plan your week ahead.
 
 Search by Location: Enter the name of any city or location to get the weather report for that area.
 
